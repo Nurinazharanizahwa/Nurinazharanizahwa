@@ -2,8 +2,6 @@
 
 Welcome to my GitHub portfolio! Here, you’ll find a collection of my academic projects, skills, and experiences. As a TKJ student at SMK Telkom.
 
-## Table of Contents
-
 - About Me Saya adalah seorang pelajar dari SMK Telkom Malang
 - 💡Skills: - Memasak
 -           - Menulis
