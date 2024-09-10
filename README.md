@@ -3,16 +3,16 @@
 Welcome to my GitHub portfolio! Here, you’ll find a collection of my academic projects, skills, and experiences. As a TKJ student at SMK Telkom.
 
 - About Me Saya adalah seorang pelajar dari SMK Telkom Malang
-- 💡Skills:
+# 💡Skills:
 - Memasak
 - Menulis
 - Membuat quotes
-- 🏫Education:
+# 🏫Education:
 - TKIT Robbani
 - SDIT Robbani
 - SMPIT Insan Permata
 - SMK Telkom Malang 📚🎓
-- ☎️Contact
+# ☎️Contact
 - Instagram: nocaslunno_830
 - Email:
 - nurin_azharani_32tkj@student.smktelkom-mlg.sch.id
